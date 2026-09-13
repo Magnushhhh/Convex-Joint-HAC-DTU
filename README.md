@@ -4,7 +4,7 @@ This repostiory contains submission(s) to the Helsinki Asteroid Challenge by the
 
 The data is too large to comfortably fit within the Git repository.
 
-Too compute the reconstructions for this submission run convexinitial.sh.
+Too compute the reconstructions for this submission run convex_joint.sh.
 
 ## Developer Guide
 - Implement things that have common use in the library at `src/hac/`
